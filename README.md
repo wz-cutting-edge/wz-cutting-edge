@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm William 👋
 
-<!--
-**wz-cutting-edge/wz-cutting-edge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior at Georgia State University, pursuing a Bachelor's in Computer Science. I have a strong passion for AI Engineering, with a particular interest in machine learning and data science. I enjoy working on projects that challenge me to learn and grow as a developer.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming Languages: Python
+- AI/ML: PyTorch, Transformers
+- Tools: VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- AI techniques
+- Data Wrangling
+- Web Scraping
+
+## 👯 Looking to Collaborate On
+- Beginner-friendly Open-source AI projects
+- Data science projects
+
+## 📫 How to Reach Me
+- [LinkedIn](www.linkedin.com/in/william-zheng-cutting-edge)
+- [Email](official.william.zheng@gmail.com)
+
+## 💼 Portfolio
+Check out some of my projects [here](https://github.com/wz-cutting-edge?tab=repositories).
+
+
