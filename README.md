@@ -17,7 +17,7 @@ I'm a senior at Georgia State University, pursuing a Bachelor's in Computer Scie
 - Data science projects
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/william-zheng-cutting-edge)
+- [LinkedIn](https://www.linkedin.com/in/wz-c-e/)
 - [Email](official.william.zheng@gmail.com)
 
 ## 💼 Portfolio
