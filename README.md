@@ -18,7 +18,7 @@ I'm a senior at Georgia State University, pursuing a Bachelor's in Computer Scie
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/wz-c-e/)
-- [Email](official.william.zheng@gmail.com)
+- [Email](willzhengcs@gmail.com)
 
 ## 💼 Portfolio
 Check out some of my projects [here](https://github.com/wz-cutting-edge?tab=repositories).
