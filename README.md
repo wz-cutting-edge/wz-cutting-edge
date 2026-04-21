@@ -1,6 +1,6 @@
 # Hi there, I'm William 👋
 
-I'm a senior at Georgia State University, pursuing a Bachelor's in Computer Science. I have a strong passion for AI Engineering, with a particular interest in machine learning and data science. I enjoy working on projects that challenge me to learn and grow as a developer.
+I'm a Master's student at Georgia State University, pursuing a Master's in Data Science and Analytics with a Bachelor's in Computer Science. I have a strong passion for data science, with a particular interest in machine learning and deep learning. I enjoy working on projects that challenge me to learn and grow as a developer.
 
 ## 🔧 Skills
 - Programming Languages: Python
