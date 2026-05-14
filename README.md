@@ -8,9 +8,7 @@ I'm a Master's student at Georgia State University, pursuing a Master's in Data 
 - Tools: VS Code
 
 ## 🌱 Currently Learning
-- AI techniques
-- Data Wrangling
-- Web Scraping
+- Big Data Programming
 
 ## 👯 Looking to Collaborate On
 - Beginner-friendly Open-source AI projects
